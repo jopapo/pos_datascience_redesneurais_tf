@@ -2,3 +2,4 @@ ipykernel
 torch
 numpy
 matplotlib
+pandas
