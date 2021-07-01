@@ -19,4 +19,4 @@ Foram testadas 11 hipóteses. Tem muito mais a ser feito mas não houve tempo h�
 A melhor acurácia ficou em 66% e foi na [hipótese 9](tf.ipynb#Hip%C3%B3tese-9:-Verificando-correla%C3%A7%C3%A3o.).
 
 1. Notebook do trabalho final: [tf.ipynb](tf.ipynb);
-1. Resultado solicitado da previsão do hidden: [results.csv](datasets\results.csv).
+1. Resultado solicitado da previsão do hidden: [result.csv](datasets/hidden-results-ANN_v10.csv).
